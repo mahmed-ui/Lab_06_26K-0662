@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 int main(){
     
     int notes500[5] = {14, 5, 8, 12, 6};
