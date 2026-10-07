@@ -2,7 +2,7 @@
 
 int main(){
     
-    int count,totalwithdrawalamount=0,transactions=0,amount,flag=1;
+    int totalwithdrawalamount=0,transactions=0,amount,flag=1;
     
     while(flag==1){
         
@@ -23,5 +23,5 @@ int main(){
     printf("Total number of transactions is %d\n",transactions);
 
     return 0;
-    
+
 }
